@@ -1,1 +1,1 @@
-# GuiProject
+# ComputationalMathematics
